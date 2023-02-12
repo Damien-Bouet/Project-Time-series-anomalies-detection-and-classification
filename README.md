@@ -2,7 +2,7 @@
 
 <b> Auteurs : </b> Damien BOUET, Pierre CHARDIN, Noé DEBROIS et Marion POIRIER<br>
 <b> Date : </b> de Février 2022 à Janvier 2023<br>
-<b> Implication personnelle : </b> 120 heures
+<b> Implication personnelle : </b> 100 heures
 
 ## Contexte et objectifs
 
