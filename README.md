@@ -27,7 +27,8 @@ Ainsi, dans un cadre, par exemple, de surveillance nucléaire, ce système perme
 
 
 ## Références bibliographiques
-- NASA Article : K. Hundman, V. Constantinou, C. Laporte, I. Colwell, and T. Soderstrom, “Detecting Spacecraft Anomalies Using LSTMs and Nonparametric
-Dynamic Thresholding,” in Proc. of the 24th ACM SIGKDD, 2018,
 - Yeh and al, “Matrix Profile I: all pairs similarity joins for time series: a unifying view that includes motifs discords and shapelets”, Proc of 16th
 IEEE ICDM, 2016,
+- NASA Article : K. Hundman, V. Constantinou, C. Laporte, I. Colwell, and T. Soderstrom, “Detecting Spacecraft Anomalies Using LSTMs and Nonparametric
+Dynamic Thresholding,” in Proc. of the 24th ACM SIGKDD, 2018,
+
